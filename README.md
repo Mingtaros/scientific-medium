@@ -1,37 +1,15 @@
 # Tugas Tulisan Medium
 Tugas Seleksi Ca-IRK 2018 - Menulis Medium
 
-## Task
-Buatlah suatu tulisan ilmiah mengenai ilmu-ilmu yang kalian dapatkan dari mata kuliah <b>TBFO (Teori Bahasa Formal dan Otomata) ATAU dari mata kuliah ProbStat (Probabilitas dan Statistika)</b>.
+## Identitas Diri
+- Nama  : Michael Hans
+- NIM   : 13518056
 
-Tulisan yang kalian buat dapat berupa pemanfaatan salah satu ilmu dari mata kuliah tersebut, dapat juga berupa analisis mendalam dari salah satu teknik/tool yang diajarkan pada mata kuliah tersebut, dapat juga berupa suatu kembangan dari teknik/tool yang sudah ada.
+## Judul Tulisan
+- Coming Soon
 
-(contoh judul tulisan: Penggunaan <i>Pushdown Automata</i> dalam Mengestimasi Pertumbuhan Penduduk)
-
-## Spesifikasi Tugas
-1. Buatlah tulisan pada [Medium](https://medium.com) dengan ketentuan sebagai berikut:
-    - Panjang tulisan minimal 7 <i>minutes read</i>.
-    - Gunakan gambar / grafik / equation untuk memperjelas.
-    - Tata bahasa formal dan <i>to the point</i>.
-
-2. Fork juga Repository ini, dan ubah README.md ini menjadi berisikan:
-    - Nama / NIM
-    - Judul Tulisan
-    - Link Medium Tulisan
-    - Pendapat kalian terhadap mengapa kemampuan untuk menulis itu penting
-
-## Teknis Pengumpulan
-Untuk pengumpulan, lakukan:
-1. Lakukan <i>Pull Request</i> Repository yang kalian Fork kembali ke Repository ini dengan format: Nama kalian - NIM.
-2. <i>Personal Chat</i> Leonardo W. (kontak ada di grup Ca-IRK 2018), menyatakan tulisan telah selesai dan harap dinilai.
-
-## Bonus
-- Pada tulisan medium dan README yang dibuat, gunakan bahasa Inggris yang baik dan benar.
-
-## Points Granted
-Max Point: 900<br>
-Bonus: + 200
-
-<br>
-====================================================================<br>
-<i>*Segala pertanyaan dapat ditanyakan melalui LINE Group Ca-IRK 2018 atau dapat melalui pc langsung.</i>
+## Mengapa Kemampuan Menulis Penting
+Menurut saya, kemampuan menulis itu penting karena tiga hal berikut ini.
+- Dengan menulis, pemahaman akan materi dalam suatu tulisan menjadi lebih tinggi karena menulis berarti mengkomunikasikan ide pikiran yang awalnya abstrak menjadi nyata, yaitu sebuah tulisan yang bisa dipahami oleh orang lain. Tentu saja, dalam mengutarakan ide pikiran dalam tulisan, diperlukan kemampuan untuk menyampaikan suatu ide pikiran menjadi lebih sederhana yang bisa dimengerti oleh orang lain agar orang lain bisa ikut memahami apa yang penulis ingin utarakan. Sebuah quote yang paling saya ingat adalah "If You Can't Explain it to a Six Year Old, You Don't Understand it Yourself" - Albert Einstein
+- Dengan menulis, kosakata yang dimiliki penulis menjadi lebih luas. Dalam mengutarakan ide pikiran, penulis perlu menuangkan dalam kosakata dan bahasa tertentu agar ide yang dituangkan bisa tepat sasaran. Penggunaan kata memegang peranan penting agar tidak terjadi ambiguitas ketika dibaca dari sudut pandang orang lain. Dengan kosakata yang tepat, maka suatu kalimat atau paragraf tidak akan menimbulkan multitafsir, atau maknanya hanyalah satu makna saja.
+- Dengan menulis, seluruh ilmu atau pengalaman yang pernah diperoleh tidak akan ada yang terlupakan karena telah terarsipkan dalam bentuk tulisan dengan baik. Tulisan bisa menjadi salah satu sarana untuk menyimpan memori atau kenangan sehingga bila sewaktu-waktu terlupakan, penulis bisa melihat kembali apa yang telah didapat saat itu.
