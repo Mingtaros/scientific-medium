@@ -1,37 +1,18 @@
 # Tugas Tulisan Medium
 Tugas Seleksi Ca-IRK 2018 - Menulis Medium
 
-## Task
-Buatlah suatu tulisan ilmiah mengenai ilmu-ilmu yang kalian dapatkan dari mata kuliah <b>TBFO (Teori Bahasa Formal dan Otomata) ATAU dari mata kuliah ProbStat (Probabilitas dan Statistika)</b>.
+## Identity
+- Name : Anna Elvira Hartoyo
+- NIM : 13518045
 
-Tulisan yang kalian buat dapat berupa pemanfaatan salah satu ilmu dari mata kuliah tersebut, dapat juga berupa analisis mendalam dari salah satu teknik/tool yang diajarkan pada mata kuliah tersebut, dapat juga berupa suatu kembangan dari teknik/tool yang sudah ada.
+## Medium article
+- Title : Are the number of occurrences of COVID-19 cases dependent on the countries’ development rank?
+- Link : https://medium.com/@naelvirahart/are-the-number-of-occurrences-of-covid-19-cases-dependent-on-the-countries-development-rank-28e7828de0da
 
-(contoh judul tulisan: Penggunaan <i>Pushdown Automata</i> dalam Mengestimasi Pertumbuhan Penduduk)
+## Why writing skill is important?
+1. Writing is one of the most demanding skill that we need in our lifes. It is a great way to inform and explain ourselves. A good writing skill will help us in getting a job later.
+2. Writing can help us practice our communication skills. When we are writing, we have to filter our knowledge and brain to important points for our readers. We must understand what you want to emphasize and be able to describe it clearly.
+3. 
 
-## Spesifikasi Tugas
-1. Buatlah tulisan pada [Medium](https://medium.com) dengan ketentuan sebagai berikut:
-    - Panjang tulisan minimal 7 <i>minutes read</i>.
-    - Gunakan gambar / grafik / equation untuk memperjelas.
-    - Tata bahasa formal dan <i>to the point</i>.
 
-2. Fork juga Repository ini, dan ubah README.md ini menjadi berisikan:
-    - Nama / NIM
-    - Judul Tulisan
-    - Link Medium Tulisan
-    - Pendapat kalian terhadap mengapa kemampuan untuk menulis itu penting
 
-## Teknis Pengumpulan
-Untuk pengumpulan, lakukan:
-1. Lakukan <i>Pull Request</i> Repository yang kalian Fork kembali ke Repository ini dengan format: Nama kalian - NIM.
-2. <i>Personal Chat</i> Leonardo W. (kontak ada di grup Ca-IRK 2018), menyatakan tulisan telah selesai dan harap dinilai.
-
-## Bonus
-- Pada tulisan medium dan README yang dibuat, gunakan bahasa Inggris yang baik dan benar.
-
-## Points Granted
-Max Point: 900<br>
-Bonus: + 200
-
-<br>
-====================================================================<br>
-<i>*Segala pertanyaan dapat ditanyakan melalui LINE Group Ca-IRK 2018 atau dapat melalui pc langsung.</i>
