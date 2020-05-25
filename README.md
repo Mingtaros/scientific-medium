@@ -1,37 +1,15 @@
 # Tugas Tulisan Medium
 Tugas Seleksi Ca-IRK 2018 - Menulis Medium
 
-## Task
-Buatlah suatu tulisan ilmiah mengenai ilmu-ilmu yang kalian dapatkan dari mata kuliah <b>TBFO (Teori Bahasa Formal dan Otomata) ATAU dari mata kuliah ProbStat (Probabilitas dan Statistika)</b>.
+## Identity
+William Fu<br>
+13518055
 
-Tulisan yang kalian buat dapat berupa pemanfaatan salah satu ilmu dari mata kuliah tersebut, dapat juga berupa analisis mendalam dari salah satu teknik/tool yang diajarkan pada mata kuliah tersebut, dapat juga berupa suatu kembangan dari teknik/tool yang sudah ada.
+## Medium Article
+**GDP vs Infant Mortality Rate** : A Simple Linear Regression Illustration
 
-(contoh judul tulisan: Penggunaan <i>Pushdown Automata</i> dalam Mengestimasi Pertumbuhan Penduduk)
+## Link
+The article mentioned above has already been published to [this](https://medium.com/@williamfu37_58492/gdp-vs-infant-mortality-rate-8724064aca15?source=friends_link&sk=c66bb5b703e10cb7eccaf811b5f6691b) Medium link.
 
-## Spesifikasi Tugas
-1. Buatlah tulisan pada [Medium](https://medium.com) dengan ketentuan sebagai berikut:
-    - Panjang tulisan minimal 7 <i>minutes read</i>.
-    - Gunakan gambar / grafik / equation untuk memperjelas.
-    - Tata bahasa formal dan <i>to the point</i>.
-
-2. Fork juga Repository ini, dan ubah README.md ini menjadi berisikan:
-    - Nama / NIM
-    - Judul Tulisan
-    - Link Medium Tulisan
-    - Pendapat kalian terhadap mengapa kemampuan untuk menulis itu penting
-
-## Teknis Pengumpulan
-Untuk pengumpulan, lakukan:
-1. Lakukan <i>Pull Request</i> Repository yang kalian Fork kembali ke Repository ini dengan format: Nama kalian - NIM.
-2. <i>Personal Chat</i> Leonardo W. (kontak ada di grup Ca-IRK 2018), menyatakan tulisan telah selesai dan harap dinilai.
-
-## Bonus
-- Pada tulisan medium dan README yang dibuat, gunakan bahasa Inggris yang baik dan benar.
-
-## Points Granted
-Max Point: 900<br>
-Bonus: + 200
-
-<br>
-====================================================================<br>
-<i>*Segala pertanyaan dapat ditanyakan melalui LINE Group Ca-IRK 2018 atau dapat melalui pc langsung.</i>
+## The Importance of Writing
+In my opinion, writing is an essential skill to have since it is a required skill in many career fields. Writing helps us to communicate our ideas to a larger group of audiences. Moreover, writing allows us to think critically on the subject of interest and thus, it raises our awareness of the current situation. Writing also can be used as a way to share our knowledge and experiences to the world.
