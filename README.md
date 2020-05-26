@@ -2,10 +2,12 @@
 
 ## Identity
 Florencia Wijaya
+
 13518020
 
 ## The Article
 "Finding Out If The Distribution of COVID-19 Patients are Homogeneous Based On The Countries' Health Care Index"
+
 Check it out in [here](https://medium.com/@florenciawijaya11/finding-out-if-the-distribution-of-covid-19-patients-are-homogeneous-based-on-the-countries-e690fba15a2e)
 
 ## Writing is Important
