@@ -1,37 +1,20 @@
-# Tugas Tulisan Medium
-Tugas Seleksi Ca-IRK 2018 - Menulis Medium
+# Scientific Medium
+This writing is written under the event of Ca_IRK 2018 selection
 
-## Task
-Buatlah suatu tulisan ilmiah mengenai ilmu-ilmu yang kalian dapatkan dari mata kuliah <b>TBFO (Teori Bahasa Formal dan Otomata) ATAU dari mata kuliah ProbStat (Probabilitas dan Statistika)</b>.
+## Link
+The writing can be accessed from the link below:
+https://medium.com/@byansakura14/statistic-behind-pandemic-aae6a169b6b1?source=friends_link&sk=510c39374214c791dbef82e4b363389d
 
-Tulisan yang kalian buat dapat berupa pemanfaatan salah satu ilmu dari mata kuliah tersebut, dapat juga berupa analisis mendalam dari salah satu teknik/tool yang diajarkan pada mata kuliah tersebut, dapat juga berupa suatu kembangan dari teknik/tool yang sudah ada.
+## Data
 
-(contoh judul tulisan: Penggunaan <i>Pushdown Automata</i> dalam Mengestimasi Pertumbuhan Penduduk)
+    Name  : Byan Sakura
+    NIM   : 13518066
+    Title : Statistic in Pandemic
+    
+## Why Should We Write?
+Writing has always been a way to express one's thought, as where reading is the wondow of the world, writing can be said as the way to build the window. We can perceive our point of view and merge it to something others might feel and understand.
+There are infinite reasons to write, just as much as there are infinite reason to speak our mind. The difference is that in writing, we also have to register what we have in our mind more than once instead of letting it slip through the way we talk. In one way or another, writing helps one thinks through problem by engaging both sides of the brain and conjures one's creativity while in an organized manner.
+In a higher studies such as college, writing has been an essential skill to be possessed by students since it is an important work skill that shows how good someone is at communicating and showing what they got in mind. Facts state that writing is the best way of self reflection to help build another character that may grow under the influence of practice one chose to apply.
+As an engineer, writing is still one of the best choice of communication especially in informatics engineering. Of course the main concern is often code writing, however any form of writing should be mastered to achieve some level of professionality.
 
-## Spesifikasi Tugas
-1. Buatlah tulisan pada [Medium](https://medium.com) dengan ketentuan sebagai berikut:
-    - Panjang tulisan minimal 7 <i>minutes read</i>.
-    - Gunakan gambar / grafik / equation untuk memperjelas.
-    - Tata bahasa formal dan <i>to the point</i>.
 
-2. Fork juga Repository ini, dan ubah README.md ini menjadi berisikan:
-    - Nama / NIM
-    - Judul Tulisan
-    - Link Medium Tulisan
-    - Pendapat kalian terhadap mengapa kemampuan untuk menulis itu penting
-
-## Teknis Pengumpulan
-Untuk pengumpulan, lakukan:
-1. Lakukan <i>Pull Request</i> Repository yang kalian Fork kembali ke Repository ini dengan format: Nama kalian - NIM.
-2. <i>Personal Chat</i> Leonardo W. (kontak ada di grup Ca-IRK 2018), menyatakan tulisan telah selesai dan harap dinilai.
-
-## Bonus
-- Pada tulisan medium dan README yang dibuat, gunakan bahasa Inggris yang baik dan benar.
-
-## Points Granted
-Max Point: 900<br>
-Bonus: + 200
-
-<br>
-====================================================================<br>
-<i>*Segala pertanyaan dapat ditanyakan melalui LINE Group Ca-IRK 2018 atau dapat melalui pc langsung.</i>
