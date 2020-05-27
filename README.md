@@ -1,37 +1,19 @@
-# Tugas Tulisan Medium
-Tugas Seleksi Ca-IRK 2018 - Menulis Medium
+# Medium Article (TBFO / ProbStat)
+## Personal Identity
+- Name        : Michael Hans
+- Student ID  : 13518056
 
-## Task
-Buatlah suatu tulisan ilmiah mengenai ilmu-ilmu yang kalian dapatkan dari mata kuliah <b>TBFO (Teori Bahasa Formal dan Otomata) ATAU dari mata kuliah ProbStat (Probabilitas dan Statistika)</b>.
+## Title
+- Determine Effectiveness of Medicine using Hypothesis Testing
+- Link : https://medium.com/@michaelhans777/determine-effectiveness-of-medicine-using-hypothesis-testing-b235163b2ae
 
-Tulisan yang kalian buat dapat berupa pemanfaatan salah satu ilmu dari mata kuliah tersebut, dapat juga berupa analisis mendalam dari salah satu teknik/tool yang diajarkan pada mata kuliah tersebut, dapat juga berupa suatu kembangan dari teknik/tool yang sudah ada.
+## Why Writing Skill is Important
+In my opinion, writing skill is important. There are three reason why writing is important.
+- First, by writing, we can heighten our comprehension about certain topic or theory because writing means communicating our idea from abstract to real. The point is a piece of writing that can be understood by the others. It is obvious that to pour in our idea on a written thing, the writer needs an ability to communicate his idea into simple language that can be understood by others so they will get what writers wanted to communicate. "If you can't explain it to a six years old, you don't understand it yourself" - Albert Einstein
 
-(contoh judul tulisan: Penggunaan <i>Pushdown Automata</i> dalam Mengestimasi Pertumbuhan Penduduk)
+- Second, by writing, the writer's vocabulary is expanded. To communicate some ideas, the writer needs to express it on writing things made from right use of word and good language to make sure our idea is quite clear to readers. Use of word plays important part to prevent anything ambiguous things when readers read from their point of view. With the right use of word and good language, any sentence or paragraph won't be mistaken to cause multiple interpretation. In other word, a sentence only has one meaning.
 
-## Spesifikasi Tugas
-1. Buatlah tulisan pada [Medium](https://medium.com) dengan ketentuan sebagai berikut:
-    - Panjang tulisan minimal 7 <i>minutes read</i>.
-    - Gunakan gambar / grafik / equation untuk memperjelas.
-    - Tata bahasa formal dan <i>to the point</i>.
+- Finally, by writing, all knowledge and experience that writer has achieved won't be forgetten because all those things are archived in a sheet full of writing. Written things such as an article or an essay can be one of many tools to keep the memories so that if someday writer forget what happen at certain time, writer can review what happens that time.
 
-2. Fork juga Repository ini, dan ubah README.md ini menjadi berisikan:
-    - Nama / NIM
-    - Judul Tulisan
-    - Link Medium Tulisan
-    - Pendapat kalian terhadap mengapa kemampuan untuk menulis itu penting
-
-## Teknis Pengumpulan
-Untuk pengumpulan, lakukan:
-1. Lakukan <i>Pull Request</i> Repository yang kalian Fork kembali ke Repository ini dengan format: Nama kalian - NIM.
-2. <i>Personal Chat</i> Leonardo W. (kontak ada di grup Ca-IRK 2018), menyatakan tulisan telah selesai dan harap dinilai.
-
-## Bonus
-- Pada tulisan medium dan README yang dibuat, gunakan bahasa Inggris yang baik dan benar.
-
-## Points Granted
-Max Point: 900<br>
-Bonus: + 200
-
-<br>
-====================================================================<br>
-<i>*Segala pertanyaan dapat ditanyakan melalui LINE Group Ca-IRK 2018 atau dapat melalui pc langsung.</i>
+## Acknowledgement
+Assistant of IRK, Leonardo Wijaya
