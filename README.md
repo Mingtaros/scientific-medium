@@ -1,13 +1,14 @@
 # Scientific Medium
 This writing is written under the event of Ca_IRK 2018 selection
 
-## link
+## Link
 The writing can be accessed from the link below:
 https://medium.com/@byansakura14/statistic-behind-pandemic-aae6a169b6b1?source=friends_link&sk=510c39374214c791dbef82e4b363389d
 
 ## Data
+
     Name  : Byan Sakura
-    NIM   :13518066
+    NIM   : 13518066
     Title : Statistic in Pandemic
     
 ## Why Should We Write?
