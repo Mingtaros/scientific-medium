@@ -1,37 +1,13 @@
-# Tugas Tulisan Medium
-Tugas Seleksi Ca-IRK 2018 - Menulis Medium
+# Scientific Medium
 
-## Task
-Buatlah suatu tulisan ilmiah mengenai ilmu-ilmu yang kalian dapatkan dari mata kuliah <b>TBFO (Teori Bahasa Formal dan Otomata) ATAU dari mata kuliah ProbStat (Probabilitas dan Statistika)</b>.
+## Author
+Daffa Pratama Putra / 13518033
 
-Tulisan yang kalian buat dapat berupa pemanfaatan salah satu ilmu dari mata kuliah tersebut, dapat juga berupa analisis mendalam dari salah satu teknik/tool yang diajarkan pada mata kuliah tersebut, dapat juga berupa suatu kembangan dari teknik/tool yang sudah ada.
+## Article Title
+Is it possible to predict weather ?
 
-(contoh judul tulisan: Penggunaan <i>Pushdown Automata</i> dalam Mengestimasi Pertumbuhan Penduduk)
+## Medium Link
+https://medium.com/@13518033/is-it-possible-to-predict-the-weather-tomorrow-2c1962eab9e3
 
-## Spesifikasi Tugas
-1. Buatlah tulisan pada [Medium](https://medium.com) dengan ketentuan sebagai berikut:
-    - Panjang tulisan minimal 7 <i>minutes read</i>.
-    - Gunakan gambar / grafik / equation untuk memperjelas.
-    - Tata bahasa formal dan <i>to the point</i>.
-
-2. Fork juga Repository ini, dan ubah README.md ini menjadi berisikan:
-    - Nama / NIM
-    - Judul Tulisan
-    - Link Medium Tulisan
-    - Pendapat kalian terhadap mengapa kemampuan untuk menulis itu penting
-
-## Teknis Pengumpulan
-Untuk pengumpulan, lakukan:
-1. Lakukan <i>Pull Request</i> Repository yang kalian Fork kembali ke Repository ini dengan format: Nama kalian - NIM.
-2. <i>Personal Chat</i> Leonardo W. (kontak ada di grup Ca-IRK 2018), menyatakan tulisan telah selesai dan harap dinilai.
-
-## Bonus
-- Pada tulisan medium dan README yang dibuat, gunakan bahasa Inggris yang baik dan benar.
-
-## Points Granted
-Max Point: 900<br>
-Bonus: + 200
-
-<br>
-====================================================================<br>
-<i>*Segala pertanyaan dapat ditanyakan melalui LINE Group Ca-IRK 2018 atau dapat melalui pc langsung.</i>
+## Why writing skill is important ?
+In my opinion, writing is important because when we writing, it's like we learn twice more than reading. We are not only learn for ourselves, but we can share it with others. Writing is also helps us to have longer memories. Because when we writing, we recall all information that we have. Writing is not about how to express something in our head on a paper or an article, but writing is about how to communicate with the readers. Thats why since childhood, we have to learn to write.
