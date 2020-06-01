@@ -1,37 +1,12 @@
-# Tugas Tulisan Medium
-Tugas Seleksi Ca-IRK 2018 - Menulis Medium
+#Nama/NIM
+Fadhil Muhammad Rafi'/13518079
 
-## Task
-Buatlah suatu tulisan ilmiah mengenai ilmu-ilmu yang kalian dapatkan dari mata kuliah <b>TBFO (Teori Bahasa Formal dan Otomata) ATAU dari mata kuliah ProbStat (Probabilitas dan Statistika)</b>.
+#Judul Tulisan
+Saya membuat tulisan yang berjudul
+##Dependence between Age and Death of Corona Victims in USA
 
-Tulisan yang kalian buat dapat berupa pemanfaatan salah satu ilmu dari mata kuliah tersebut, dapat juga berupa analisis mendalam dari salah satu teknik/tool yang diajarkan pada mata kuliah tersebut, dapat juga berupa suatu kembangan dari teknik/tool yang sudah ada.
+#Link Tulisan Medium
+Untuk membaca tulisan yang saya buat, silakan akses https://medium.com/@13518079/dependence-between-age-and-death-of-coronas-victim-in-usa-b55afce3c03c
 
-(contoh judul tulisan: Penggunaan <i>Pushdown Automata</i> dalam Mengestimasi Pertumbuhan Penduduk)
-
-## Spesifikasi Tugas
-1. Buatlah tulisan pada [Medium](https://medium.com) dengan ketentuan sebagai berikut:
-    - Panjang tulisan minimal 7 <i>minutes read</i>.
-    - Gunakan gambar / grafik / equation untuk memperjelas.
-    - Tata bahasa formal dan <i>to the point</i>.
-
-2. Fork juga Repository ini, dan ubah README.md ini menjadi berisikan:
-    - Nama / NIM
-    - Judul Tulisan
-    - Link Medium Tulisan
-    - Pendapat kalian terhadap mengapa kemampuan untuk menulis itu penting
-
-## Teknis Pengumpulan
-Untuk pengumpulan, lakukan:
-1. Lakukan <i>Pull Request</i> Repository yang kalian Fork kembali ke Repository ini dengan format: Nama kalian - NIM.
-2. <i>Personal Chat</i> Leonardo W. (kontak ada di grup Ca-IRK 2018), menyatakan tulisan telah selesai dan harap dinilai.
-
-## Bonus
-- Pada tulisan medium dan README yang dibuat, gunakan bahasa Inggris yang baik dan benar.
-
-## Points Granted
-Max Point: 900<br>
-Bonus: + 200
-
-<br>
-====================================================================<br>
-<i>*Segala pertanyaan dapat ditanyakan melalui LINE Group Ca-IRK 2018 atau dapat melalui pc langsung.</i>
+#Pendapat Mengenai Pentingnya Pemampuan Menulis
+Menurut saya, sebagai seorang informatikawan, kita tidak hanya dituntut untuk membuat program yang baik, tetapi juga kita dituntut untuk dapat menjelaskan program yang telah kita buat. Jika kita dapat menjelaskan program yang kita buat dengan baik, maka orang lain akan dapat lebih mudah memahaminya. Selain itu, dengan penjelasan yang baik kita dapat memperoleh keuntungan seperti, orang lain akan tertarik dengan program yang kita buat. Salah satu media untuk menjelaskan program yang telah kita buat adalah dengan melalui tulisan. Kemampuan menulis yang baik akan menghasilkan tulisan yang baik sehingga dapat dipahami dengan mudah oleh tiap orang yang membacanya. Oleh karena itu, kemampuan menulis sangat penting bagi informatikawan dan dapat memberikan keuntungan baik kepada diri sendiri, maupun orang lain.
